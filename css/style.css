@@ -1,8 +1,4 @@
 
-/*
-
-Author: Bootstrapthemes
-Author URI: http://bootstrapthemes.co
 
 */
 /* ==========================================================================
@@ -863,7 +859,7 @@ a.btn{
 }
 .pricing_top h2{
     color:#0f5f5c;
-    font-size:32px;
+    font-size:30px;
 	font-family: 'robotolight';
 }
 .pricing_top p{
@@ -875,11 +871,14 @@ a.btn{
 
 
 .pricing_tabel_contant .col-md-4 {
-	padding:0
-}
+	padding: 0;
+   
+    }
 .single_pricing{
+    
     border: 1px solid rgba(221, 221, 221, 0.25);
-    padding: 30px;
+    padding: 28px;
+
 }
 .top_text{}
 .top_text span{
@@ -917,6 +916,7 @@ a.btn{
 /* Plans Section CSS*/
 #plans{
     padding-top: 50px;
+    
 }
 .single_plans{
     padding:35px 0px;
