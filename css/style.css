@@ -1214,7 +1214,12 @@ a.get_stared_btn{
     color:#83a7a5;
 }
 
-
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Opcional: ajusta la altura según tus necesidades */
+  }
 
 
 
