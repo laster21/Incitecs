@@ -871,7 +871,7 @@ a.btn{
 
 
 .pricing_tabel_contant .col-md-4 {
-	padding: 0;
+	padding: 0
    
     }
 .single_pricing{
@@ -910,7 +910,6 @@ a.btn{
     line-height: 30px;
 	font-family: 'robotolight';
 }
-
 
 
 /* Plans Section CSS*/
@@ -1083,11 +1082,6 @@ a.s_f_5:hover{
     color:#fff;
 }
 
-
-
-
-
-
 /* Contact Us page */
 #google_map{    
 	padding-top: 76px;
@@ -1097,8 +1091,6 @@ a.s_f_5:hover{
 .messsage_contant{
     margin-top:70px;
 }
-
-
 
 .single_message_left{
     max-width:515px;
